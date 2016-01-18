@@ -1,0 +1,7 @@
+C:\GitSources\POS.Core\POS.Core\obj\Debug\POS.Core.csprojResolveAssemblyReference.cache
+C:\GitSources\POS.Core\POS.Core\bin\Debug\POS.Core.dll
+C:\GitSources\POS.Core\POS.Core\bin\Debug\POS.Core.pdb
+C:\GitSources\POS.Core\POS.Core\bin\Debug\HidLibrary.dll
+C:\GitSources\POS.Core\POS.Core\bin\Debug\HidLibrary.pdb
+C:\GitSources\POS.Core\POS.Core\obj\Debug\POS.Core.dll
+C:\GitSources\POS.Core\POS.Core\obj\Debug\POS.Core.pdb
