@@ -1,7 +1,3 @@
 language: csharp
 solution: POS.Core.sln
-install:
-  - nuget restore POS.Core.sln
- script:
-  - xbuild /p:Configuration=net_4_0_Debug POS.Core.sln
   
